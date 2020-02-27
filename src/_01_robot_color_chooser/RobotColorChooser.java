@@ -27,9 +27,13 @@ Oreo.setPenColor(Color.blue);
 		Oreo.setPenWidth(20);
 	    //2. Make the robot draw a shape (this will take more than one line of code)
 		Oreo.setSpeed(10000);
-		Oreo.move(200);
+		Oreo.move(20);
         Oreo.move(90);
-
+        Oreo.turn(20);
+        Oreo.move(90);
+       
+        
+        
 }
 }
 }
