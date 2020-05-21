@@ -1,4 +1,5 @@
 void draw() {
+  for (int i=0;i<;i++) 
 /*Use a loop to make a body for the Bee!
 Then put his head on using drawBeeFace(x,y)
 Use Modulo to make the colors alternate 
