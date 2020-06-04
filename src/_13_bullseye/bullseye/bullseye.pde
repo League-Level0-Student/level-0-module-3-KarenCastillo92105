@@ -4,7 +4,7 @@ void setup() {
   // set the size of your sketch
   
 }
-
+///
 void draw() {
   for (int i=8;i>0;i--) {
    if(i%2==0) {
